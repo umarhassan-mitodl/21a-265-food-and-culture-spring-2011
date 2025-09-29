@@ -1,6 +1,8 @@
 ---
 content_type: page
 course_id: 21a-265-food-and-culture-spring-2011
+hide_download: true
+hide_download_original: null
 layout: course_home
 menu:
   21a-265-food-and-culture-spring-2011:
